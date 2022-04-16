@@ -1,0 +1,75 @@
+table {
+	 border: 0px; 
+	 cellpading: 0px; 
+	 cellspacing: 0px;
+	 width: 100%;
+}
+#profile img {
+	border-radius: 30px;
+	width: 300px;
+	left:  400px;
+	aling: center;
+}
+#uno img {
+	border-radius: 50%;
+	width: 200px;
+	left: 200px;
+}
+#dos img {
+	border-radius: 50%;
+	width: 200px;
+	left: 200px;
+}
+#tres img {
+	border-radius: 50%;
+	width: 200px;
+	left: 200px;
+}
+#cuatro img {
+	border-radius: 50%;
+	width: 200px;
+left: 200px;
+}
+h2 {
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+ul {
+	list-style-type: none;
+	font-weight: bold;
+}
+h2:hover {
+  background-color: paleturquoise;
+}
+h2 {
+  background-color: royalblue;
+  transition: background-color .5s;
+}
+body {
+	background-color: lightcyan;
+}
+p {
+	font-weight: bold;
+}
+dl {
+	font-weight: bold;
+}
+#ubi img {
+	width: 13px;
+	left: 13px;
+}
+#tel img {
+	width: 13px;
+	left: 13px;
+}
+#cor img {
+    width: 13px;
+    left: 13px;
+}
+#link img {
+	width: 15px;
+	left: 15px;
+}
+td {
+	font-weight: bold;
+}
